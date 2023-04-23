@@ -1,6 +1,6 @@
 package ru.progwards.java1.lessons.static1;
 
-class CalcTime {
+public class CalcTime {
     private static double distance;
     private static double speed;
     private static String cityFrom;
@@ -40,7 +40,7 @@ class CalcTime {
         printTimes();
     }
 }
-class Goodies {
+public class Goodies {
     private static String goodies = "вкусняшки";
     private static String child = "ребенок";
     public static void printPresent() {
@@ -72,7 +72,7 @@ class Goodies {
         printPresents();
     }
 }
-class Room {
+public class Room {
     private static double length1 = 5;
     private static double width1 = 3;
     private static double length2 = length1+1.5;
