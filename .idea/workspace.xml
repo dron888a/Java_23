@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H8_repo" />
+    <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H9_static1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -150,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682232616891</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="H9_static1">
+      <created>1682233226379</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682233226379</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +165,7 @@
     <MESSAGE value="static1" />
     <MESSAGE value="Git_3" />
     <MESSAGE value="H8_repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="H8_repo" />
+    <MESSAGE value="H9_static1" />
+    <option name="LAST_COMMIT_MESSAGE" value="H9_static1" />
   </component>
 </project>
