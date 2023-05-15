@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H9_static1">
+    <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H10_basics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/Distance3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/Distance3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/static1/CalcTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/static1/CalcTime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +24,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -52,7 +54,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Dron/IdeaProjects/Academy/Base/src/ru/progwards/java1/lessons/repo/Base.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Base">
+  <component name="RunManager" selected="Application.Room">
     <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.progwards.java1.lessons.repo.Base" />
       <module name="Java_23" />
@@ -107,10 +109,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Base" />
         <item itemvalue="Application.Room" />
-        <item itemvalue="Application.Goodies" />
         <item itemvalue="Application.CalcTime" />
+        <item itemvalue="Application.Base" />
+        <item itemvalue="Application.Goodies" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682233794071</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="H10_basics">
+      <created>1682235090363</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682235090363</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,6 +205,7 @@
     <MESSAGE value="Git_3" />
     <MESSAGE value="H8_repo" />
     <MESSAGE value="H9_static1" />
-    <option name="LAST_COMMIT_MESSAGE" value="H9_static1" />
+    <MESSAGE value="H10_basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="H10_basics" />
   </component>
 </project>
