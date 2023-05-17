@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H9_D.z.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H8_repo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684163101605</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="H8_repo">
+      <created>1684287898835</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684287898835</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,10 +213,10 @@
     <MESSAGE value="Git_2" />
     <MESSAGE value="static1" />
     <MESSAGE value="Git_3" />
-    <MESSAGE value="H8_repo" />
     <MESSAGE value="H9_static1" />
     <MESSAGE value="H10_basics" />
     <MESSAGE value="H9_D.z." />
-    <option name="LAST_COMMIT_MESSAGE" value="H9_D.z." />
+    <MESSAGE value="H8_repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="H8_repo" />
   </component>
 </project>
