@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H8_repo">
+    <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H8_basics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +45,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dron/IdeaProjects/Academy/Base/src/ru/progwards/java1/lessons/repo/Base.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Dron/IdeaProjects/Academy/Base/src/ru/progwards/java1/lessons/repo/Base.java",
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
-}</component>
-  <component name="RunManager" selected="Application.Room">
+}]]></component>
+  <component name="RunManager" selected="Application.CalcTime">
     <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.progwards.java1.lessons.repo.Base" />
       <module name="Java_23" />
@@ -66,7 +67,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalcTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CalcTime" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.progwards.java1.lessons.static1.CalcTime" />
       <module name="Java_23" />
       <extension name="coverage">
@@ -108,7 +109,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Room" />
-        <item itemvalue="Application.CalcTime" />
         <item itemvalue="Application.Base" />
         <item itemvalue="Application.Goodies" />
       </list>
@@ -228,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684515081378</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="H8_basics">
+      <created>1684515493516</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1684515493516</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,6 +247,11 @@
     <MESSAGE value="H10_basics" />
     <MESSAGE value="H9_D.z." />
     <MESSAGE value="H8_repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="H8_repo" />
+    <MESSAGE value="H8_basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="H8_basics" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
