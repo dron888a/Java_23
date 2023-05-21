@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H8_basics" />
+=======
+    <list default="true" id="3ababdd1-a0bb-48ec-9259-46cde1fb99cb" name="Changes" comment="H8_repo" />
+>>>>>>> 044c806faca4247b3a2f6447c084b978c89cd445
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,6 +209,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684287898835</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00013" summary="H8_repo">
       <created>1684287956882</created>
       <option name="number" value="00013" />
@@ -234,6 +239,9 @@
       <updated>1684515493516</updated>
     </task>
     <option name="localTasksCounter" value="17" />
+=======
+    <option name="localTasksCounter" value="13" />
+>>>>>>> 044c806faca4247b3a2f6447c084b978c89cd445
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,11 +253,15 @@
     <MESSAGE value="H10_basics" />
     <MESSAGE value="H9_D.z." />
     <MESSAGE value="H8_repo" />
+<<<<<<< HEAD
     <MESSAGE value="H8_basics" />
     <option name="LAST_COMMIT_MESSAGE" value="H8_basics" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="H8_repo" />
+>>>>>>> 044c806faca4247b3a2f6447c084b978c89cd445
   </component>
 </project>
